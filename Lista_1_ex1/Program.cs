@@ -8,6 +8,7 @@ namespace Lista_1_ex1
 {
     internal class Program
     {
+        // oi
         static void Main(string[] args)
         {
             int n1, n2;
